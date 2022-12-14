@@ -3,6 +3,11 @@ public class Main {
         homework1();
 
     }
+
     public static void homework1() {
         System.out.println("Домашняя задача 1");
         {
+
+        }
+    }
+}
